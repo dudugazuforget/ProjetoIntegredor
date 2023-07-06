@@ -5,22 +5,27 @@ export const questoes = [
         dica: "Não espere, ponha em prática! Interprete o texto ;)",
         respostas: [
             {
+                id: 1,
                 texto: "a angústia alimentada pela constatação da irreversibilidade da morte.",
                 correta: true
             },
             {
+                id: 2,
                 texto: "a melancolia que frustra a possibilidade de reação diante da perda.",
                 correta: false
             }, 
             {
+                id: 3, 
                 texto: "o descontrole das emoções provocado pela autopiedade.",
                 correta: false
             }, 
             {
+                id: 4,
                 texto: "o desejo de morrer como alívio para a desilusão amorosa.",
                 correta: false
             }, 
             {
+                id: 5,
                 texto: "o gosto pela escuridão como solução para o sofrimento.",
                 correta: false
             }
